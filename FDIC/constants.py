@@ -3,6 +3,6 @@ direc = 'C:/GitRepo/FDIC/PubData/'
 
 # Connection token to FFIEC webservice
 	#Create Account Here - https://cdr.ffiec.gov/public/PWS/
-ffiec_un = 'ryanmcstylin'
-ffiec_pw = 'CJ4hAT6n3yj1KBeb3fOk'
+ffiec_un = ''
+ffiec_pw = ''
 
